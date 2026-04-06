@@ -1,0 +1,3 @@
+@echo off
+echo Opening Smart Timetable Generator in Chrome...
+start chrome "%~dp0timetable_standalone.html"
